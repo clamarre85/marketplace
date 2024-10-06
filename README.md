@@ -4,6 +4,8 @@ http://127.0.0.1:8000/login/
 http://127.0.0.1:8000/        -------for login site
 http://127.0.0.1:8000/admin/   -------for admin area
 
+video I followed------ https://www.youtube.com/watch?v=ZxMB6Njs3ck
+
 create your own account and add items to sell. You should be able to sign up, login upload items to sell. 
 I have added the about page and darkened the projectname bg.
 
