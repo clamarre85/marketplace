@@ -1,4 +1,10 @@
-# Puddle | Django
+please use 
+http://127.0.0.1:8000/        -------for login site
+http://127.0.0.1:8000/admin/   -------for admin area
+
+
+
+# Projectname | Django
 
 Learn how to build a simple online market place website using Django.
 
